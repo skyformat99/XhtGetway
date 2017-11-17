@@ -1,0 +1,11 @@
+.svn/
+.vs/
+Debug/
+Release/
+x64/
+TradeGetway/x64
+XhtGetway/x64
+*.VC.db
+*.opendb
+
+
